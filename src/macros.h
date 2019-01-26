@@ -4,13 +4,13 @@
 
 #define VHBB_DATA std::string("ux0:/data/VitaHbBrowser")
 
-#define API_ENDPOINT std::string("https://rinnegatamante.it/vitadb/list_hbs_yaml.php")
+#define API_ENDPOINT std::string("http://devdavisnunez.x10.mx/wikihb/api/v1/?vhbb")
 #define API_LOCAL std::string("ux0:/data/VitaHbBrowser/homebrews.yaml")
 
 #define ICONS_FOLDER std::string("ux0:/data/VitaHbBrowser/icons")
-#define ICON_URL_PREFIX std::string("https://rinnegatamante.it/vitadb/icons/")
+#define ICON_URL_PREFIX std::string("http://devdavisnunez.x10.mx/wikihb/icons/")
 
-#define SERVER_BASE_URL std::string("https://rinnegatamante.it/vitadb/")
+#define SERVER_BASE_URL std::string("http://devdavisnunez.x10.mx/wikihb/")
 #define SCREENSHOTS_FOLDER std::string("ux0:/data/VitaHbBrowser/screenshots")
 
 enum {
